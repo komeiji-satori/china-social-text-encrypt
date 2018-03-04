@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4240c46419408cfca001f7066674b09a",
+    "content-hash": "ba92b976a691d813705ec529781bb334",
     "packages": [
         {
             "name": "fukuball/jieba-php",
@@ -153,7 +153,7 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": {
         "fukuball/jieba-php": 20
     },

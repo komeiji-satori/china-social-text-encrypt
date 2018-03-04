@@ -15,8 +15,7 @@
     {
         "fukuball/jieba-php": "dev-master",
         "overtrue/pinyin": "~3.0",
-        "rmccue/requests": "^1.7",
-        "bephp/activerecord": "dev-master"
+        "rmccue/requests": "^1.7"
     },
     "autoload":
     {

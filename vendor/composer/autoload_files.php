@@ -12,4 +12,5 @@ return array(
     '750aa4fdf8bfc24d7baef293581bec73' => $vendorDir . '/fukuball/jieba-php/src/class/Posseg.php',
     '6ca3f08a814c4fd9d5830fc6808a9488' => $vendorDir . '/fukuball/jieba-php/src/vendor/multi-array/MultiArray.php',
     '4d5ee3c1cc66ee941937c247fe6b7d6e' => $vendorDir . '/fukuball/jieba-php/src/vendor/multi-array/Factory/MultiArrayFactory.php',
+    '82ffa276a9c05727bd1c69bf1f29a04f' => $baseDir . '/ChinaSocialText.php',
 );
