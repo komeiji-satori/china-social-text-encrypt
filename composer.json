@@ -3,7 +3,7 @@
     "type": "library",
     "description": "中国社交网络文字加密",
     "keywords": ["Social", "PHP"],
-    "license": "GNU General Public License v3.0",
+    "license": "GPL-3.0-only",
     "version": "0.1",
     "authors": [
     {
